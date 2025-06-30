@@ -2,11 +2,11 @@
 title: "MinCD-PnP: Learning 2D-3D Correspondences with Approximate Blind PnP"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/2024-02-17-paper-title-number-5
 excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
 date: 2025-06-30
 venue: 'ICCV 2025'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'http://academicpages.github.io/files/iccv-25.pdf'
 citation: 'Pei An, Jiaqi Yang, Muyao Peng, You Yang, Qiong Liu, Xiaolin Wu, and Liangliang Nan. MinCD-PnP: Learning 2D-3D Correspondences with Approximate Blind PnP. Accepted by ICCV 2025'
 ---
 
