@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now a **Postdoctoral Researcher** in Huazhong University of Science and Technology (HUST). I will join HUST as a assistant researcher in 2026 spring. Up to now, I have published 20+ journal and conference papers (first/co-first/corresponding authors), including Conferences: ICCV/AAAI/IJCAI/ICASSP, and Journals: IEEE T-MM/T-ITS/T-CSVT, CVIU, PR letters, and so on. In the future, I will update this _github.io_ website to make it more beautiful :)
+I am now a **Postdoctoral Researcher** in Huazhong University of Science and Technology (HUST). I will join HUST as a assistant researcher in 2026 spring. Up to now, I have published 20+ journal and conference papers (first/co-first/corresponding authors), including  ICCV/AAAI/IJCAI/ICASSP, IEEE T-MM/T-ITS/T-CSVT, CVIU, PR letters, and so on. In the future, I will update this _github.io_ website to make it more beautiful :)
 
 **#Research Interests**
 
