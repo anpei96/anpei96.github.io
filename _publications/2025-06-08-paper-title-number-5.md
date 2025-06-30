@@ -2,8 +2,8 @@
 title: "MinCD-PnP: Learning 2D-3D Correspondences with Approximate Blind PnP"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-5
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
+permalink: /publication/2025-06-08-paper-title-number-5
+excerpt: 'I2P registrtaion supervision'
 date: 2025-06-30
 venue: 'ICCV 2025'
 paperurl: 'http://academicpages.github.io/files/iccv-25.pdf'
