@@ -18,8 +18,8 @@ Focusing on image-to-point-cloud (I2P) registration in three aspects:
 
 **News**
 
-[2025.06.25] One paper (first-author) was accepted by **ICCV 2025**.  
-[2025.04.28] One paper (first-autor) was accepted by **IJCAI 2025**.
+[2025.06.25] One paper was accepted by **ICCV 2025**.  
+[2025.04.28] One paper was accepted by **IJCAI 2025**.
 
 **Projects**  
 Three projects is related to image-to-point-cloud registration:  
