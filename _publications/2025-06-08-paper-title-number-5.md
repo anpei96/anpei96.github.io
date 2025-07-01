@@ -6,7 +6,7 @@ permalink: /publication/2025-06-08-paper-title-number-5
 excerpt: 'I2P registrtaion supervision'
 date: 2025-06-30
 venue: 'ICCV 2025'
-paperurl: 'http://academicpages.github.io/files/iccv-25.pdf'
+paperurl: 'http://anpei96.github.io/files/iccv-25.pdf'
 citation: 'Pei An, Jiaqi Yang, Muyao Peng, You Yang, Qiong Liu, Xiaolin Wu, and Liangliang Nan. MinCD-PnP: Learning 2D-3D Correspondences with Approximate Blind PnP. Accepted by ICCV 2025'
 ---
 
