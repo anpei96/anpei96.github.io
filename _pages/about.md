@@ -7,14 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am now a **Postdoctoral Researcher** in Huazhong University of Science and Technology (HUST). I will join HUST as a assistant researcher in 2026 spring. Up to now, I have published 20+ journal and conference papers (first/co-first/corresponding authors), including  ICCV/AAAI/IJCAI/ICASSP, IEEE T-MM/T-ITS/T-CSVT, CVIU, PR letters, Optics Express and so on. I will update this _github.io_ website to make it more beautiful :)
+I am now a **Postdoctoral Researcher** in Huazhong University of Science and Technology (from 2024-now). I love hiking and thinking. Up to now, I have published 40+ journal and conference papers, including CVPR, ICCV, IJCV, IEEE Trans. and so on. 
 
 **Research Interests**
 
-Focusing on image-to-point-cloud (I2P) registration in three aspects:  
-(1)	Method design——Learning cross-modality feature with strong discriminability  
-(2)	Generalization——Matching image and point cloud anywhere and anytime  
-(3)	Applications——Real-time, robust, accurate 6 DoF localization for robotics and AR
+Focusing on two foundamental problems:
+(1) Image-to-point-cloud registration. An 
+(2) Image-to-point-cloud reconstruction. 
 
 **News**
 
