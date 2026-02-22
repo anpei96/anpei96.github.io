@@ -30,6 +30,10 @@ Focusing on two foundamental problems about image-to-point-cloud (I2P) perceptio
 (4)	HUST Postdoctoral Science Special Funding (**PI**), about I2P registration, 2024  
 (5)	National Key R&D Program of China (**sub-project, PI**), about multi-modal perception, 2024  
 
+**Recent Top-5 publications (updating...)**  
+
+(1) TBD
+
 **Concat**  
 
 email: anpei96@hust.edu.cn
