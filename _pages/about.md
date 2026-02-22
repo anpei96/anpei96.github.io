@@ -11,14 +11,16 @@ I am now a **Postdoctoral Researcher** in Huazhong University of Science and Tec
 
 **Research Interests**
 
-Focusing on two foundamental problems:
-(1) Image-to-point-cloud registration. An 
-(2) Image-to-point-cloud reconstruction. 
+Focusing on two foundamental problems about image-to-point-cloud (I2P) perception:
+(1) Image-to-point-cloud registration. 
+(2) Applications of image-to-point-cloud registration, such as visual SLAM and Gaussian splatting.
 
 **News**
 
-[2025.06.25] One paper was accepted by **ICCV 2025**.  
-[2025.04.28] One paper was accepted by **IJCAI 2025**.
+[2026.02] One paper about I2P registration was accepted by **CVPR 2026**. 
+[2025.08] One paper about I2P registration was accepted by **IJCV 2025**. 
+[2025.06] One paper about I2P registration was accepted by **ICCV 2025**.  
+[2025.04] One paper about I2P registration was accepted by **IJCAI 2025**.
 
 **Projects**  
 
