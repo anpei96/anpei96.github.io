@@ -24,10 +24,11 @@ Focusing on two foundamental problems about image-to-point-cloud (I2P) perceptio
 
 **Projects**  
 
-Three projects is related to image-to-point-cloud registration:  
-(1) China Postdoctoral Science Foundation (**PI**), Grand ID: 2024M761014, Research on image-to-point-cloud registration for long-term visual localization task  
-(2)	HUST Postdoctoral Science Special Funding (**PI**), Grand ID: None, Research on image-to-point-cloud registration  
-(3)	National Key R&D Program of China (**sub-project, PI**), Grand ID: 2024YFC3015303-3, Research on multi-modality information fusion for emergency rescue
+(1) National Natural Science Foundation of China (**PI**), 2025 
+(2) China Postdoctoral Science Foundation (**PI**), 2025  
+(3) China Postdoctoral Science Foundation (**PI**), 2024  
+(4)	HUST Postdoctoral Science Special Funding (**PI**), 2024  
+(5)	National Key R&D Program of China (**sub-project, PI**), 2024  
 
 **Concat**  
 
