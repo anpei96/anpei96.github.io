@@ -24,11 +24,11 @@ Focusing on two foundamental problems about image-to-point-cloud (I2P) perceptio
 
 **Projects**  
 
-(1) National Natural Science Foundation of China (**PI**), 2025 
-(2) China Postdoctoral Science Foundation (**PI**), 2025  
-(3) China Postdoctoral Science Foundation (**PI**), 2024  
-(4)	HUST Postdoctoral Science Special Funding (**PI**), 2024  
-(5)	National Key R&D Program of China (**sub-project, PI**), 2024  
+(1) National Natural Science Foundation of China (**PI**), about I2P registration, 2025  
+(2) China Postdoctoral Science Foundation (**PI**), about I2P registration, 2025  
+(3) China Postdoctoral Science Foundation (**PI**), about I2P registration, 2024  
+(4)	HUST Postdoctoral Science Special Funding (**PI**), about I2P registration, 2024  
+(5)	National Key R&D Program of China (**sub-project, PI**), about multi-modal perception, 2024  
 
 **Concat**  
 
