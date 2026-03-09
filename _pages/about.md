@@ -32,10 +32,10 @@ Focusing on two foundamental problems about image-to-point-cloud (I2P) perceptio
 
 **Recent publications**  
 
-[1] **Pei An**, Junfeng Ding, Jiaqi Yang*, Yulong Wang, Liangliang Nan*, and et al. Hg-I2P: Bridging modalities for generalizable image-to-point-cloud registration via heterogeneous graphs, in Proceedings of IEEE Computer Vision and Pattern Recognition (CVPR), 2026, Accepted.   
-[2] **Pei An**, Jiaqi Yang, You Yang*, and et al. MinCD-PnP: Learning 2D-3D Correspondences with Approximate Blind PnP, in Proceedings of International Conference on Computer Vision (ICCV), 2025, 26519-26528.  
-[3] **Pei An**, Jiaqi Yang, Jie Ma, You Yang*, and et al. Top-I2P: Explore Open-Domain Image-to-Point Cloud Registration using Topology Relationships, in Proceedings of International Joint Conference on Artificial Intelligence (IJCAI), 2025, 674-683.  
-[4] **Pei An**, You Yang*, Jiaqi Yang, and et al. Enhance Image-to-Point-Cloud Registration with Beltrami Flow. International Journal of Computer Vision (IJCV), 2025, 133(12): 8589-8616.  
+[1] **Pei An**, Junfeng Ding, Jiaqi Yang, Yulong Wang, Liangliang Nan, and et al. Hg-I2P: Bridging modalities for generalizable image-to-point-cloud registration via heterogeneous graphs, in Proceedings of IEEE Computer Vision and Pattern Recognition (CVPR), 2026, Accepted.   
+[2] **Pei An**, Jiaqi Yang, You Yang, and et al. MinCD-PnP: Learning 2D-3D Correspondences with Approximate Blind PnP, in Proceedings of International Conference on Computer Vision (ICCV), 2025, 26519-26528.  
+[3] **Pei An**, Jiaqi Yang, Jie Ma, You Yang, and et al. Top-I2P: Explore Open-Domain Image-to-Point Cloud Registration using Topology Relationships, in Proceedings of International Joint Conference on Artificial Intelligence (IJCAI), 2025, 674-683.  
+[4] **Pei An**, You Yang, Jiaqi Yang, and et al. Enhance Image-to-Point-Cloud Registration with Beltrami Flow. International Journal of Computer Vision (IJCV), 2025, 133(12): 8589-8616.  
 
 **Concat**  
 
