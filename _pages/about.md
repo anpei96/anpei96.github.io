@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now a **Postdoctoral Researcher** in Huazhong University of Science and Technology (from 2024-now). I love hiking and thinking. Up to now, I have published 40+ journal and conference papers, including CVPR, ICCV, ECCV, IJCV, IEEE Trans. and so on. 
+I was a Postdoctoral Researcher in Huazhong University of Science and Technology (from 2024-2026) and will become an Associate Researcher in Huazhong Agricultural University. I love hiking and thinking. Up to now, I have published 40+ journal and conference papers, including CVPR, ICCV, ECCV, IJCV, IEEE Trans. and so on. 
 
 **Research Interests**
 
